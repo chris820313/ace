@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smartPool.iml" filepath="$PROJECT_DIR$/smartPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartPool_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smartPool_main.iml" group="smartPool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartPool_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smartPool_test.iml" group="smartPool" />
+    </modules>
+  </component>
+</project>
