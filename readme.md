@@ -6,6 +6,14 @@
 ace小组习惯上将定义和实现分开
 举例：小组为某一个配置文件定义一个配置类的格式并编写了类的代码，一般这个类都会具有**abstract**关键词，小组会在实现中
 ## 目录结构
----------------------
-|- definition - 定义
-|- implement  - 实现
+* definition - 定义
+* implement  - 实现
+
+其中的子目录含义分别是：
+* exception：异常
+* config：配置
+* context：上下文
+* datastructure：数据结构
+* maid：工具类
+* mapper：映射类
+* plugin：插件类
